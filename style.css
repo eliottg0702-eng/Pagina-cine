@@ -1,0 +1,20 @@
+body {
+    background-color: #4043f1;
+    font-family: Arial;
+    color: #000000;
+}
+
+.contenedor{
+    text-align: center;
+}
+
+.titulo{
+    font-family: Arial;
+    font-size: 60px;
+    margin-bottom: 10px;
+}
+
+.subtitulo{
+    font-size: 25px;
+    font-family: Georgia;
+}
