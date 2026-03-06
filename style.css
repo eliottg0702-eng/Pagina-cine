@@ -1,5 +1,5 @@
 body {
-    background-color: #4043f1;
+    background-color: #7c1dd4;
     font-family: Arial;
     color: #000000;
 }
@@ -17,4 +17,30 @@ body {
 .subtitulo{
     font-size: 25px;
     font-family: Georgia;
+}
+
+.imagen{
+    width: 300px;
+    display: block;
+    margin: auto;
+    border-radius: 20px;
+}
+
+.sinopsis{
+    font-size: 20px;
+    max-width: 700px;
+    margin: auto;
+}
+
+.izquierda{
+  float: left;
+  width:200px;
+  border-radius: 20px;
+}
+
+.derecha{
+  float: right;
+  width:200px;
+  border-radius: 20px;
+  
 }
